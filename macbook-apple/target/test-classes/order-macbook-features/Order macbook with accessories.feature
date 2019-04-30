@@ -22,5 +22,5 @@ Scenario: The correct price and VAT are displayed for a MacBook 15 with accessor
     | MacBook Pro and software |    3168.99 |
     | Display adapter          |      19.00 |
   When I proceed to the checkout 
-  Then a total price of "£3187.99" will be displayed
-  And "£531.34" will be listed for VAT.VAT
+  Then a total price of "Â£3,187.99" will be displayed
+  And "Â£531.34" will be listed for VAT.VAT

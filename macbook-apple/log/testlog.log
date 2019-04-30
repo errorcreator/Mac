@@ -637,3 +637,160 @@
 2019-04-29 15:28:50,133 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
 2019-04-29 15:28:50,134 - com.apple.definations.CucumberHooks -INFO -  Scenario status : failed
 2019-04-29 15:28:50,134 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-29 16:22:35,691 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-29 16:22:35,722 - com.apple.definations.CucumberHooks -INFO - ** Feature : order-macbook-with-accessories
+2019-04-29 16:22:35,722 - com.apple.definations.CucumberHooks -INFO - ** Scenario: A MacBook "15" with accessories can be ordered on the website
+2019-04-29 16:22:35,724 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-29 16:23:09,505 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-29 16:23:09,506 - com.apple.definations.CucumberHooks -INFO -  Scenario status : passed
+2019-04-29 16:23:09,507 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-29 16:23:09,519 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-29 16:23:09,520 - com.apple.definations.CucumberHooks -INFO - ** Feature : order-macbook-with-accessories
+2019-04-29 16:23:09,521 - com.apple.definations.CucumberHooks -INFO - ** Scenario: The correct price and VAT are displayed for a MacBook 15 with accessories
+2019-04-29 16:23:09,521 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-29 16:23:09,875 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-29 16:23:09,876 - com.apple.definations.CucumberHooks -INFO -  Scenario status : failed
+2019-04-29 16:23:09,876 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 09:48:30,810 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 09:48:30,839 - com.apple.definations.CucumberHooks -INFO - ** Feature : order-macbook-with-accessories
+2019-04-30 09:48:30,871 - com.apple.definations.CucumberHooks -INFO - ** Scenario: A MacBook "15" with accessories can be ordered on the website
+2019-04-30 09:48:30,879 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 09:49:10,020 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 09:49:10,021 - com.apple.definations.CucumberHooks -INFO -  Scenario status : passed
+2019-04-30 09:49:10,022 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 09:49:10,052 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 09:49:10,053 - com.apple.definations.CucumberHooks -INFO - ** Feature : order-macbook-with-accessories
+2019-04-30 09:49:10,054 - com.apple.definations.CucumberHooks -INFO - ** Scenario: The correct price and VAT are displayed for a MacBook 15 with accessories
+2019-04-30 09:49:10,054 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 09:49:10,367 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 09:49:10,367 - com.apple.definations.CucumberHooks -INFO -  Scenario status : failed
+2019-04-30 09:49:10,367 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 09:58:46,403 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 09:58:46,420 - com.apple.definations.CucumberHooks -INFO - ** Feature : order-macbook-with-accessories
+2019-04-30 09:58:46,420 - com.apple.definations.CucumberHooks -INFO - ** Scenario: A MacBook "15" with accessories can be ordered on the website
+2019-04-30 09:58:46,424 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 09:59:15,940 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 09:59:15,941 - com.apple.definations.CucumberHooks -INFO -  Scenario status : passed
+2019-04-30 09:59:15,942 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 09:59:15,957 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 09:59:15,957 - com.apple.definations.CucumberHooks -INFO - ** Feature : order-macbook-with-accessories
+2019-04-30 09:59:15,958 - com.apple.definations.CucumberHooks -INFO - ** Scenario: The correct price and VAT are displayed for a MacBook 15 with accessories
+2019-04-30 09:59:15,958 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 09:59:16,371 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 09:59:16,371 - com.apple.definations.CucumberHooks -INFO -  Scenario status : failed
+2019-04-30 09:59:16,371 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 10:01:34,372 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 10:01:34,390 - com.apple.definations.CucumberHooks -INFO - ** Feature : order-macbook-with-accessories
+2019-04-30 10:01:34,391 - com.apple.definations.CucumberHooks -INFO - ** Scenario: A MacBook "15" with accessories can be ordered on the website
+2019-04-30 10:01:34,395 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 10:02:11,006 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 10:02:11,007 - com.apple.definations.CucumberHooks -INFO -  Scenario status : passed
+2019-04-30 10:02:11,008 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 10:02:11,038 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 10:02:11,038 - com.apple.definations.CucumberHooks -INFO - ** Feature : order-macbook-with-accessories
+2019-04-30 10:02:11,039 - com.apple.definations.CucumberHooks -INFO - ** Scenario: The correct price and VAT are displayed for a MacBook 15 with accessories
+2019-04-30 10:02:11,039 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 10:02:11,431 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 10:02:11,431 - com.apple.definations.CucumberHooks -INFO -  Scenario status : failed
+2019-04-30 10:02:11,431 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 10:03:42,014 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 10:03:42,025 - com.apple.definations.CucumberHooks -INFO - ** Feature : order-macbook-with-accessories
+2019-04-30 10:03:42,026 - com.apple.definations.CucumberHooks -INFO - ** Scenario: A MacBook "15" with accessories can be ordered on the website
+2019-04-30 10:03:42,027 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 10:04:16,657 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 10:04:16,659 - com.apple.definations.CucumberHooks -INFO -  Scenario status : passed
+2019-04-30 10:04:16,659 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 10:04:16,698 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 10:04:16,699 - com.apple.definations.CucumberHooks -INFO - ** Feature : order-macbook-with-accessories
+2019-04-30 10:04:16,699 - com.apple.definations.CucumberHooks -INFO - ** Scenario: The correct price and VAT are displayed for a MacBook 15 with accessories
+2019-04-30 10:04:16,700 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 10:04:17,115 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 10:04:17,115 - com.apple.definations.CucumberHooks -INFO -  Scenario status : failed
+2019-04-30 10:04:17,116 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 10:06:37,242 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 10:06:37,252 - com.apple.definations.CucumberHooks -INFO - ** Feature : order-macbook-with-accessories
+2019-04-30 10:06:37,254 - com.apple.definations.CucumberHooks -INFO - ** Scenario: A MacBook "15" with accessories can be ordered on the website
+2019-04-30 10:06:37,257 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 10:07:11,703 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 10:07:11,704 - com.apple.definations.CucumberHooks -INFO -  Scenario status : passed
+2019-04-30 10:07:11,705 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 10:07:11,739 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 10:07:11,739 - com.apple.definations.CucumberHooks -INFO - ** Feature : order-macbook-with-accessories
+2019-04-30 10:07:11,740 - com.apple.definations.CucumberHooks -INFO - ** Scenario: The correct price and VAT are displayed for a MacBook 15 with accessories
+2019-04-30 10:07:11,740 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 10:07:12,215 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 10:07:12,216 - com.apple.definations.CucumberHooks -INFO -  Scenario status : failed
+2019-04-30 10:07:12,216 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 10:08:41,073 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 10:08:41,090 - com.apple.definations.CucumberHooks -INFO - ** Feature : order-macbook-with-accessories
+2019-04-30 10:08:41,091 - com.apple.definations.CucumberHooks -INFO - ** Scenario: A MacBook "15" with accessories can be ordered on the website
+2019-04-30 10:08:41,092 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 10:09:26,612 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 10:09:26,613 - com.apple.definations.CucumberHooks -INFO -  Scenario status : passed
+2019-04-30 10:09:26,614 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 10:09:26,633 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 10:09:26,635 - com.apple.definations.CucumberHooks -INFO - ** Feature : order-macbook-with-accessories
+2019-04-30 10:09:26,635 - com.apple.definations.CucumberHooks -INFO - ** Scenario: The correct price and VAT are displayed for a MacBook 15 with accessories
+2019-04-30 10:09:26,636 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 10:09:27,308 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 10:09:27,308 - com.apple.definations.CucumberHooks -INFO -  Scenario status : failed
+2019-04-30 10:09:27,309 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 10:11:37,010 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 10:11:37,028 - com.apple.definations.CucumberHooks -INFO - ** Feature : order-macbook-with-accessories
+2019-04-30 10:11:37,029 - com.apple.definations.CucumberHooks -INFO - ** Scenario: A MacBook "15" with accessories can be ordered on the website
+2019-04-30 10:11:37,032 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 10:12:08,501 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 10:12:08,502 - com.apple.definations.CucumberHooks -INFO -  Scenario status : passed
+2019-04-30 10:12:08,503 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 10:12:08,520 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 10:12:08,521 - com.apple.definations.CucumberHooks -INFO - ** Feature : order-macbook-with-accessories
+2019-04-30 10:12:08,522 - com.apple.definations.CucumberHooks -INFO - ** Scenario: The correct price and VAT are displayed for a MacBook 15 with accessories
+2019-04-30 10:12:08,522 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 10:12:09,076 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 10:12:09,077 - com.apple.definations.CucumberHooks -INFO -  Scenario status : failed
+2019-04-30 10:12:09,077 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 10:19:23,492 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 10:19:23,503 - com.apple.definations.CucumberHooks -INFO - ** Feature : order-macbook-with-accessories
+2019-04-30 10:19:23,504 - com.apple.definations.CucumberHooks -INFO - ** Scenario: A MacBook "15" with accessories can be ordered on the website
+2019-04-30 10:19:23,505 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 10:19:55,789 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 10:19:55,791 - com.apple.definations.CucumberHooks -INFO -  Scenario status : passed
+2019-04-30 10:19:55,792 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 10:19:55,824 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 10:19:55,824 - com.apple.definations.CucumberHooks -INFO - ** Feature : order-macbook-with-accessories
+2019-04-30 10:19:55,825 - com.apple.definations.CucumberHooks -INFO - ** Scenario: The correct price and VAT are displayed for a MacBook 15 with accessories
+2019-04-30 10:19:55,825 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 10:19:56,237 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 10:19:56,238 - com.apple.definations.CucumberHooks -INFO -  Scenario status : passed
+2019-04-30 10:19:56,239 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 10:25:46,557 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 10:25:46,565 - com.apple.definations.CucumberHooks -INFO - ** Feature : order-macbook-with-accessories
+2019-04-30 10:25:46,565 - com.apple.definations.CucumberHooks -INFO - ** Scenario: A MacBook "15" with accessories can be ordered on the website
+2019-04-30 10:25:46,566 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 10:25:52,465 - com.apple.definations.Stepdefinitions -INFO - url: https://www.apple.com/uk/
+2019-04-30 10:25:52,520 - com.apple.definations.Stepdefinitions -INFO - Go to url
+2019-04-30 10:25:55,629 - com.apple.definations.Stepdefinitions -INFO - Processor : 2.9GHz
+2019-04-30 10:25:55,630 - com.apple.definations.Stepdefinitions -INFO - Memory RAM : 16GB
+2019-04-30 10:25:55,630 - com.apple.definations.Stepdefinitions -INFO - Screen : 15
+2019-04-30 10:25:55,630 - com.apple.definations.Stepdefinitions -INFO - Option : Specification
+2019-04-30 10:25:55,631 - com.apple.definations.Stepdefinitions -INFO - Software : Logic Pro X
+2019-04-30 10:25:55,631 - com.apple.definations.Stepdefinitions -INFO - Colour : Silver
+2019-04-30 10:25:55,632 - com.apple.definations.Stepdefinitions -INFO - Display adapter : USB-C to USB Adapter
+2019-04-30 10:26:21,963 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 10:26:21,963 - com.apple.definations.CucumberHooks -INFO -  Scenario status : passed
+2019-04-30 10:26:21,964 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 10:26:21,998 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 10:26:21,999 - com.apple.definations.CucumberHooks -INFO - ** Feature : order-macbook-with-accessories
+2019-04-30 10:26:21,999 - com.apple.definations.CucumberHooks -INFO - ** Scenario: The correct price and VAT are displayed for a MacBook 15 with accessories
+2019-04-30 10:26:21,999 - com.apple.definations.CucumberHooks -INFO - ***************************************************************
+2019-04-30 10:26:22,003 - com.apple.definations.Stepdefinitions -INFO - url: https://www.apple.com/uk/
+2019-04-30 10:26:22,249 - com.apple.definations.Stepdefinitions -INFO - 15-inch MacBook Pro - Silver : £3,168.99
+2019-04-30 10:26:22,250 - com.apple.definations.Stepdefinitions -INFO - USB-C to USB Adapter : £19.00
+2019-04-30 10:26:22,251 - com.apple.definations.Stepdefinitions -INFO - Checkout
+2019-04-30 10:26:22,253 - com.apple.definations.Stepdefinitions -INFO - From feature price : £3,187.99
+2019-04-30 10:26:22,330 - com.apple.definations.Stepdefinitions -INFO - From UI price : £3,187.99
+2019-04-30 10:26:22,445 - com.apple.definations.Stepdefinitions -INFO - From feature VAT : £531.34
+2019-04-30 10:26:22,446 - com.apple.definations.Stepdefinitions -INFO - From UI VAT : £531.34
+2019-04-30 10:26:22,446 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 
+2019-04-30 10:26:22,447 - com.apple.definations.CucumberHooks -INFO -  Scenario status : passed
+2019-04-30 10:26:22,447 - com.apple.definations.CucumberHooks -INFO - ---------------------------------------------------------- 

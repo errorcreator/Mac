@@ -49,12 +49,12 @@ public class BagPage extends Events{
 				return itemsPrices;
 			}
 			
-			public Double getTaxValue(){
-				return Double.valueOf(taxPrice.getText());
+			public String getTaxValue(){
+				return taxPrice.getText();
 			}
 			
-			public Double getTotalValue(){
-				return Double.valueOf(totalPrice.getText());
+			public String getTotalValue(){
+				return totalPrice.getText();
 			}
 			
 			

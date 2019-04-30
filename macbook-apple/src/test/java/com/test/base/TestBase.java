@@ -6,7 +6,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import com.apple.pages.BagPage;
-import com.apple.pages.Events;
 import com.apple.pages.HomePage;
 import com.apple.pages.MacProductsPage;
 import com.apple.pages.MacbookProPage;
